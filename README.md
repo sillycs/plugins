@@ -1,5 +1,5 @@
 # Plugin Development
-> Build powerful plugins for Raton in minutes. · `C# 7.3 on NET 4.7.2`
+> Build powerful plugins for Raton in minutes · `C# 7.3 on NET 4.7.2`
 
 ---
 

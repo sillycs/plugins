@@ -1,0 +1,6 @@
+C:\Users\Cristian\Desktop\NewRaton\Plugin template\TestPlugin\TestPlugin\bin\Release\TestPlugin.dll
+C:\Users\Cristian\Desktop\NewRaton\Plugin template\TestPlugin\TestPlugin\bin\Release\TestPlugin.pdb
+C:\Users\Cristian\Desktop\NewRaton\Plugin template\TestPlugin\TestPlugin\obj\Release\TestPlugin.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\NewRaton\Plugin template\TestPlugin\TestPlugin\obj\Release\TestPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\NewRaton\Plugin template\TestPlugin\TestPlugin\obj\Release\TestPlugin.dll
+C:\Users\Cristian\Desktop\NewRaton\Plugin template\TestPlugin\TestPlugin\obj\Release\TestPlugin.pdb
